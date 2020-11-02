@@ -2,8 +2,6 @@
 
 This repository contains the notebooks that I had submitted as solutions to the programming assignments from Week 2 to Week 4.
 
-All solutions notebooks had passed with 100% score.
-
 Verify my certification **[here](https://www.coursera.org/account/accomplishments/verify/XJGX24B6ZYLC)**
 
 **WEEK 2**
